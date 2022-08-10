@@ -35,5 +35,5 @@ print(soup. get_text())
 
 navlinksTechtargetNetwork= soup.find("nav-links-TechtargetNetwork")
 print(navlinksTechtargetNetwork)
-for elem in navlinksTechtargetNetwork.children:
-    print(elem)
+#for elem in navlinksTechtargetNetwork.children:
+    #print(elem)
